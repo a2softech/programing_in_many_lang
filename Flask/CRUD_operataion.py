@@ -39,7 +39,7 @@ if __name__ == '__main__':
 	app.run()
 
 
-for run a code use this
+# for run a code use this
 #pip install httpie
 #http POST http://127.0.0.1:5000/student name=Aakash age=25 course=Python
 #http GET  http://127.0.0.1:5000/student/1
